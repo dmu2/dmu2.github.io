@@ -1,5 +1,5 @@
 ## The 1nd International Workshop on User Understanding from Big Data Workshop (DMU2 2023)
-This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE ICDM 2023](http://bigdataieee.org/BigData2023/](https://www.cloud-conf.net/icdm2023/index.html).
+This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE ICDM 2023](https://www.cloud-conf.net/icdm2023/index.html).
 
 ## Call for Papers
 Data mining has become a critical tool for understanding human behaviors and improving user experiences in the digital age. The availability of massive amounts of user-level data from different sources has enabled technology companies to leverage quantitative techniques such as statistical sampling, data visualization, funnel analysis, user journey analysis, and experimental design to gain insights into user mental models and provide frameworks for user understanding. Large-scale data has also been crucial in customizing approaches for gaining user traction, improving user experience and monetization for different user groups. The potential applications of data mining in this space are tremendous, including recommendation, marketing, online experiments, and more.
@@ -32,11 +32,7 @@ The topics for the workshop including but not limited to:
 ## Paper Submission
 Please submit a full-length paper (up to **10 page IEEE 2-column format**) through the online submission system.
 
-[Paper Submission Page](https://wi-lab.com/cyberchair/2023/bigdata23/index.php)
-
-Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below).
-
-[Formatting Instructions](https://www.ieee.org/conferences/publishing/templates.html)
+Please refer to the ICDM regular submission requirment for more information at https://www.cloud-conf.net/icdm2023/call-for-papers.html
 
 ## Important dates 
 -	<span style="color:red"> Sep 10, 2023 </span>: Due date for full workshop papers submission
