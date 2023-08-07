@@ -35,7 +35,7 @@ Please submit a full-length paper (up to **10 page IEEE 2-column format**) throu
 Please refer to the ICDM regular submission requirment for more information at https://www.cloud-conf.net/icdm2023/call-for-papers.html
 
 ## Important dates 
--	<span style="color:red"> Sep 10, 2023 </span>: Due date for full workshop papers submission
+-	<span style="color:red"> Sep 15, 2023 </span>: Due date for full workshop papers submission
 -	<span style="color:red"> Sep 30, 2023 </span>: Notification of paper acceptance to authors
 -	<span style="color:red"> Oct 15, 2023 </span>: Camera-ready of accepted papers 
 -	<span style="color:red"> Dec 1-4, 2023</span>: Workshops
