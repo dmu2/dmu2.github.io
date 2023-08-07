@@ -57,6 +57,7 @@ Please refer to the ICDM regular submission requirment for more information at h
 - Wenting Long, Post Doctoral Researcher, Yale
 - Jiexin Duan, Sr Financial Modeler, Moody's Corporation
 - Mi Feng, Sr Software Engineer, Twitter
+- Zhiyuan Yao, Data Scientist, Cisco
 
 ## Contact Information
 - Email: icdm.dmu2@gmail.com
