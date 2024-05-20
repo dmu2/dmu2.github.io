@@ -1,5 +1,5 @@
-## The 1st International Workshop on User Understanding from Big Data Workshop (DMU2 2023)
-This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE ICDM 2023](https://www.cloud-conf.net/icdm2023/index.html).
+## The 2st International Workshop on User Understanding from Big Data Workshop (DMU2 2024)
+This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE ICDM 2024](https://icdm2024.org/).
 
 ## Call for Papers
 Data mining has become a critical tool for understanding human behaviors and improving user experiences in the digital age. The availability of massive amounts of user-level data from different sources has enabled technology companies to leverage quantitative techniques such as statistical sampling, data visualization, funnel analysis, user journey analysis, and experimental design to gain insights into user mental models and provide frameworks for user understanding. Large-scale data has also been crucial in customizing approaches for gaining user traction, improving user experience and monetization for different user groups. The potential applications of data mining in this space are tremendous, including recommendation, marketing, online experiments, and more.
@@ -37,14 +37,14 @@ Please refer to the ICDM regular submission requirment for more information at h
 [The link of paper submission](https://www.wi-lab.com/cyberchair/2023/icdm23/scripts/submit.php?subarea=S15&undisplay_detail=1&wh=/cyberchair/2023/icdm23/scripts/ws_submit.php)
 
 ## Important dates 
--	<span style="color:red"> Sep 15, 2023 </span>: Due date for full workshop papers submission
--	<span style="color:red"> Sep 30, 2023 </span>: Notification of paper acceptance to authors
--	<span style="color:red"> Oct 15, 2023 </span>: Camera-ready of accepted papers 
--	<span style="color:red"> Dec 1-4, 2023</span>: Workshops
+-	<span style="color:red"> Sep 15, 2024 </span>: Due date for full workshop papers submission
+-	<span style="color:red"> Sep 30, 2024 </span>: Notification of paper acceptance to authors
+-	<span style="color:red"> Oct 15, 2024 </span>: Camera-ready of accepted papers 
+-	<span style="color:red"> Dec 9-12, 2023</span>: Workshops
 
 ## Program Chairs
 -	Claire Ding, Senior Manager, Mobile Data at data.ai
--	Wutao Wei, Data Science Manager at Twitter
+-	Wutao Wei, Senior Data Science Leader at Cisco Meraki
 -	Bowei Xi, Associate Professor, Purdue University
 
 
