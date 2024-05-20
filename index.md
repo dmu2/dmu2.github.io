@@ -34,13 +34,13 @@ Please submit a full-length paper (up to **10 page IEEE 2-column format**) throu
 
 Please refer to the ICDM regular submission requirment for more information at https://www.cloud-conf.net/icdm2023/call-for-papers.html
 
-[The link of paper submission](https://www.wi-lab.com/cyberchair/2023/icdm23/scripts/submit.php?subarea=S15&undisplay_detail=1&wh=/cyberchair/2023/icdm23/scripts/ws_submit.php)
+[The link of paper submission](https://www.wi-lab.com/cyberchair/2024/icdm24/scripts/submit.php?subarea=DM)
 
 ## Important dates 
 -	<span style="color:red"> Sep 15, 2024 </span>: Due date for full workshop papers submission
 -	<span style="color:red"> Sep 30, 2024 </span>: Notification of paper acceptance to authors
 -	<span style="color:red"> Oct 15, 2024 </span>: Camera-ready of accepted papers 
--	<span style="color:red"> Dec 9-12, 2023</span>: Workshops
+-	<span style="color:red"> Dec 9-12, 2024</span>: Workshops
 
 ## Program Chairs
 -	Claire Ding, Senior Manager, Mobile Data at data.ai
