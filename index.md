@@ -1,4 +1,4 @@
-## The 2st International Workshop on User Understanding from Big Data Workshop (DMU2 2024)
+## The 2nd International Workshop on User Understanding from Big Data Workshop (DMU2 2024)
 This accepted workshop is to gain insights on how big data methodologies can be enhancing user understanding in the world of technology. The accepted papers will be presented in the workshop and be included in the workshop proceeding of [IEEE ICDM 2024](https://icdm2024.org/).
 
 ## Call for Papers
