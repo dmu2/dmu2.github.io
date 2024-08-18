@@ -34,7 +34,7 @@ Please submit a full-length paper (up to **10 page IEEE 2-column format**) throu
 
 Please refer to the ICDM regular submission requirment for more information at https://www.cloud-conf.net/icdm2023/call-for-papers.html
 
-[The link of paper submission](https://www.wi-lab.com/cyberchair/2024/icdm24/scripts/submit.php?subarea=DM)
+[The link of paper submission](https://www.wi-lab.com/cyberchair/2024/icdm24/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2024/icdm24/scripts/ws_submit.php)
 
 ## Important dates 
 -	<span style="color:red"> Sep 15, 2024 </span>: Due date for full workshop papers submission
